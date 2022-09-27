@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "1stopshop"
+    "name": "1StopShop"
   },
   "api": {
-    "projectId": "445jjtaf",
+    "projectId": "1u0wrucs",
     "dataset": "production"
   },
   "plugins": [
