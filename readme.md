@@ -1,5 +1,7 @@
-<h1>To Run the Project<h1>
+**To Run the Project**
 
-Open the folder inside an IDE
-Install dependencies : "npm --legacy-peer-deps"
-Start server : "npm run dev"
+1.Open the folder inside an IDE
+
+2.Install dependencies : "npm --legacy-peer-deps"
+
+3.Start server : "npm run dev"
