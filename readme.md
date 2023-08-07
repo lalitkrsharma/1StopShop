@@ -36,6 +36,8 @@ Welcome to my E-Commerce Website! (1StopShop) This project is a fully functional
 ## Technologies Used
 
   - NextJs
+  - JavaScript
+  - git
   - Tailwind CSS
   - NodeJs
   - Stripe
