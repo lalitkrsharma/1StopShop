@@ -26,7 +26,7 @@ Welcome to my E-Commerce Website! (1StopShop) This project is a fully functional
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/e-commerce-website.git
+   git clone https://github.com/lalitkrsharma/1StopShop.git
    
 2. Run the Project
    ```bash
