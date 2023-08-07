@@ -1,6 +1,6 @@
 # [1StopShop: An E-Commerce Website](http://1-stop-shop.vercel.app/)
 
-![Project Logo](https://github.com/lalitkrsharma/1StopShop/blob/master/Screenshot%202023-08-01%20223020.png)
+![Project Logo](https://github.com/lalitkrsharma/1StopShop/blob/master/preview%20img.png)
 
 ## Description
 
