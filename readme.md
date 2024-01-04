@@ -51,3 +51,4 @@ Welcome to my E-Commerce Website! (1StopShop) This project is a fully functional
   - Search functionality using keyword
   - Suggestions based on similar categories
   - Dark Mode
+  - AI reccomendations
