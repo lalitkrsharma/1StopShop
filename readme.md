@@ -1,4 +1,4 @@
-# [1StopShop: An E-Commerce Website](http://1-stop-shop.vercel.app/)
+# [1StopShop: An E-Commerce Website.](http://1-stop-shop.vercel.app/)
 
 ![Project Logo](https://github.com/lalitkrsharma/1StopShop/blob/master/preview%20img.png)
 
