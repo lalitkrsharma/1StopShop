@@ -2,7 +2,7 @@
 
 ![Project Logo](https://github.com/lalitkrsharma/1StopShop/blob/master/preview%20img.png)
 
-## Description
+## Description:
 
 Welcome to my E-Commerce Website! (1StopShop)
 This project is a fully functional e-commerce platform designed to offer a seamless shopping experience for customers. It provides a wide range of products and intuitive features to make online shopping enjoyable and efficient. The website's content is a parody of popular brands and therefore not for actual sale. It's a fully functional template for anyone to use and create their website.
